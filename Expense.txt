@@ -1,0 +1,3 @@
+Food - 250
+Travel - 350
+coffee - 35
